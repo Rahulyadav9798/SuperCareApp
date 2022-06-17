@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951238548535",
+    "project_id": "supercare-e8e77",
+    "storage_bucket": "supercare-e8e77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951238548535:android:ef3adbca545db794ecf3b2",
+        "android_client_info": {
+          "package_name": "com.supercare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951238548535-r7l7dv39haku04r3bf2hm0espcqtf2e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXYxGw6_A8U81eYOSzY1V_cA4DuBxN3sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951238548535-r7l7dv39haku04r3bf2hm0espcqtf2e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
